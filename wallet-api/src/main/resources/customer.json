@@ -1,0 +1,16 @@
+{
+    "firstName": "Tom",
+    "lastName": "Jerry",
+    "registrationFees": 2300,
+    "registrationDate": "2021-09-12",
+    "emailId": "tom@gmail.com",
+    "customerPassword": "tom@1234",
+    "mobileNo": "12121212",
+    "address":{
+        "addressLine1": "West Street",
+        "addressLine2": "2nd Cross",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "pincode": "324324"
+    }
+}
